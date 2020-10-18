@@ -1,2 +1,2 @@
 # ExploreEgypt
-It's a small project (website) to tell the people some informations about my country Egypt.
+It's a small project (website) for telling people some information about my country Egypt.
